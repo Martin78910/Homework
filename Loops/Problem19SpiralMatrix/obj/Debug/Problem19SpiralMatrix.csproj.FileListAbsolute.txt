@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem19SpiralMatrix\bin\Debug\Problem19SpiralMatrix.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem19SpiralMatrix\bin\Debug\Problem19SpiralMatrix.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem19SpiralMatrix\bin\Debug\Problem19SpiralMatrix.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem19SpiralMatrix\obj\Debug\Problem19SpiralMatrix.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem19SpiralMatrix\obj\Debug\Problem19SpiralMatrix.pdb

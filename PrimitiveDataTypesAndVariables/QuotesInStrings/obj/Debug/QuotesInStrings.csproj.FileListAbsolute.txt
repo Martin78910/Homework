@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\PrimitiveDataTypesAndVariables\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\PrimitiveDataTypesAndVariables\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\PrimitiveDataTypesAndVariables\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\PrimitiveDataTypesAndVariables\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\PrimitiveDataTypesAndVariables\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

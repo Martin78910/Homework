@@ -1,0 +1,10 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem10BeerTime\bin\Debug\Problem10BeerTime.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem10BeerTime\bin\Debug\Problem10BeerTime.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem10BeerTime\bin\Debug\Problem10BeerTime.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem10BeerTime\obj\Debug\Problem10BeerTime.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem10BeerTime\obj\Debug\Problem10BeerTime.pdb
+G:\VAIO\Programing Basic_October 2015\Homework\ConditionalStatements\Problem10BeerTime\bin\Debug\Problem10BeerTime.exe.config
+G:\VAIO\Programing Basic_October 2015\Homework\ConditionalStatements\Problem10BeerTime\obj\Debug\Problem10BeerTime.exe
+G:\VAIO\Programing Basic_October 2015\Homework\ConditionalStatements\Problem10BeerTime\obj\Debug\Problem10BeerTime.pdb
+G:\VAIO\Programing Basic_October 2015\Homework\ConditionalStatements\Problem10BeerTime\bin\Debug\Problem10BeerTime.exe
+G:\VAIO\Programing Basic_October 2015\Homework\ConditionalStatements\Problem10BeerTime\bin\Debug\Problem10BeerTime.pdb

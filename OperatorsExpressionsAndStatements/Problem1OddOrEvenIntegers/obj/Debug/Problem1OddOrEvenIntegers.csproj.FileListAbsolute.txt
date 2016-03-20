@@ -1,0 +1,6 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem1OddOrEvenIntegers\bin\Debug\Problem1OddOrEvenIntegers.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem1OddOrEvenIntegers\bin\Debug\Problem1OddOrEvenIntegers.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem1OddOrEvenIntegers\bin\Debug\Problem1OddOrEvenIntegers.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem1OddOrEvenIntegers\obj\Debug\Problem1OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem1OddOrEvenIntegers\obj\Debug\Problem1OddOrEvenIntegers.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem1OddOrEvenIntegers\obj\Debug\Problem1OddOrEvenIntegers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem11CountOfLetters\bin\Debug\Problem11CountOfLetters.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem11CountOfLetters\bin\Debug\Problem11CountOfLetters.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem11CountOfLetters\bin\Debug\Problem11CountOfLetters.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem11CountOfLetters\obj\Debug\Problem11CountOfLetters.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem11CountOfLetters\obj\Debug\Problem11CountOfLetters.pdb

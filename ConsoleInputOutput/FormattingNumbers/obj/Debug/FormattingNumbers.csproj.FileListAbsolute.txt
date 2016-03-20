@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\ConsoleInputOutput\FormattingNumbers\bin\Debug\FormattingNumbers.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\ConsoleInputOutput\FormattingNumbers\bin\Debug\FormattingNumbers.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\ConsoleInputOutput\FormattingNumbers\bin\Debug\FormattingNumbers.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\ConsoleInputOutput\FormattingNumbers\obj\Debug\FormattingNumbers.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\ConsoleInputOutput\FormattingNumbers\obj\Debug\FormattingNumbers.pdb

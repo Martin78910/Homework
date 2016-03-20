@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\ConsoleInputOutput\SumOfNumbers\bin\Debug\SumOfNumbers.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\ConsoleInputOutput\SumOfNumbers\bin\Debug\SumOfNumbers.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\ConsoleInputOutput\SumOfNumbers\bin\Debug\SumOfNumbers.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\ConsoleInputOutput\SumOfNumbers\obj\Debug\SumOfNumbers.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\ConsoleInputOutput\SumOfNumbers\obj\Debug\SumOfNumbers.pdb

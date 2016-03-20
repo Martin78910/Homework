@@ -1,0 +1,8 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem11NumberAsWords\bin\Debug\Problem11NumberAsWords.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem11NumberAsWords\bin\Debug\Problem11NumberAsWords.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem11NumberAsWords\bin\Debug\Problem11NumberAsWords.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem11NumberAsWords\obj\Debug\Problem11NumberAsWords.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem11NumberAsWords\obj\Debug\Problem11NumberAsWords.pdb
+G:\VAIO\Programing Basic_October 2015\Homework\ConditionalStatements\Problem11NumberAsWords\bin\Debug\Problem11NumberAsWords.exe.config
+G:\VAIO\Programing Basic_October 2015\Homework\ConditionalStatements\Problem11NumberAsWords\obj\Debug\Problem11NumberAsWords.exe
+G:\VAIO\Programing Basic_October 2015\Homework\ConditionalStatements\Problem11NumberAsWords\obj\Debug\Problem11NumberAsWords.pdb

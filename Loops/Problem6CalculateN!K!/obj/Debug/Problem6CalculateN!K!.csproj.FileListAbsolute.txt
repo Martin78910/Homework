@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem6CalculateN!K!\bin\Debug\Problem6CalculateN!K!.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem6CalculateN!K!\bin\Debug\Problem6CalculateN!K!.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem6CalculateN!K!\bin\Debug\Problem6CalculateN!K!.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem6CalculateN!K!\obj\Debug\Problem6CalculateN!K!.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem6CalculateN!K!\obj\Debug\Problem6CalculateN!K!.pdb

@@ -1,0 +1,6 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem3CheckForAPlayCard\bin\Debug\Problem3CheckForAPlayCard.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem3CheckForAPlayCard\bin\Debug\Problem3CheckForAPlayCard.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem3CheckForAPlayCard\bin\Debug\Problem3CheckForAPlayCard.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem3CheckForAPlayCard\obj\Debug\Problem3CheckForAPlayCard.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem3CheckForAPlayCard\obj\Debug\Problem3CheckForAPlayCard.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem3CheckForAPlayCard\obj\Debug\Problem3CheckForAPlayCard.csprojResolveAssemblyReference.cache

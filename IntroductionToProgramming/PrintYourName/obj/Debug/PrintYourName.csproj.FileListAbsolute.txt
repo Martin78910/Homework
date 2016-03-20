@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\IntroductionToProgramming\PrintYourName\bin\Debug\PrintYourName.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\IntroductionToProgramming\PrintYourName\bin\Debug\PrintYourName.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\IntroductionToProgramming\PrintYourName\bin\Debug\PrintYourName.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\IntroductionToProgramming\PrintYourName\obj\Debug\PrintYourName.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\IntroductionToProgramming\PrintYourName\obj\Debug\PrintYourName.pdb

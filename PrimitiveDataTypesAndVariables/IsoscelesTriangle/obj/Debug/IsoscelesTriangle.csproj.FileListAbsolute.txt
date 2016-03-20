@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\PrimitiveDataTypesAndVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\PrimitiveDataTypesAndVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\PrimitiveDataTypesAndVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\PrimitiveDataTypesAndVariables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\PrimitiveDataTypesAndVariables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb

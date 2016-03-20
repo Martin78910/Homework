@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem10JoinLists\bin\Debug\Problem10JoinLists.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem10JoinLists\bin\Debug\Problem10JoinLists.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem10JoinLists\bin\Debug\Problem10JoinLists.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem10JoinLists\obj\Debug\Problem10JoinLists.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem10JoinLists\obj\Debug\Problem10JoinLists.pdb

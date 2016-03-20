@@ -1,0 +1,6 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem7\bin\Debug\Problem7.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem7\bin\Debug\Problem7.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem7\bin\Debug\Problem7.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem7\obj\Debug\Problem7.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem7\obj\Debug\Problem7.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem7\obj\Debug\Problem7.csprojResolveAssemblyReference.cache

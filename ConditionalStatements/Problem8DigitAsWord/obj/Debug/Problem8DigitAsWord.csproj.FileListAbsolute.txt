@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem8DigitAsWord\bin\Debug\Problem8DigitAsWord.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem8DigitAsWord\bin\Debug\Problem8DigitAsWord.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem8DigitAsWord\bin\Debug\Problem8DigitAsWord.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem8DigitAsWord\obj\Debug\Problem8DigitAsWord.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem8DigitAsWord\obj\Debug\Problem8DigitAsWord.pdb

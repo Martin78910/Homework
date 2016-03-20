@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem13CheckABitAtGivenPosition\bin\Debug\Problem13CheckABitAtGivenPosition.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem13CheckABitAtGivenPosition\bin\Debug\Problem13CheckABitAtGivenPosition.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem13CheckABitAtGivenPosition\bin\Debug\Problem13CheckABitAtGivenPosition.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem13CheckABitAtGivenPosition\obj\Debug\Problem13CheckABitAtGivenPosition.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem13CheckABitAtGivenPosition\obj\Debug\Problem13CheckABitAtGivenPosition.pdb

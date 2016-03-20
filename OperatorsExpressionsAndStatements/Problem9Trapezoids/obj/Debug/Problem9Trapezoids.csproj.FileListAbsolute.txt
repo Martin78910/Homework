@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem9Trapezoids\bin\Debug\Problem9Trapezoids.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem9Trapezoids\bin\Debug\Problem9Trapezoids.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem9Trapezoids\bin\Debug\Problem9Trapezoids.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem9Trapezoids\obj\Debug\Problem9Trapezoids.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem9Trapezoids\obj\Debug\Problem9Trapezoids.pdb

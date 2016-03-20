@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem3PrimesInGivenRange\bin\Debug\Problem3PrimesInGivenRange.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem3PrimesInGivenRange\bin\Debug\Problem3PrimesInGivenRange.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem3PrimesInGivenRange\bin\Debug\Problem3PrimesInGivenRange.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem3PrimesInGivenRange\obj\Debug\Problem3PrimesInGivenRange.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem3PrimesInGivenRange\obj\Debug\Problem3PrimesInGivenRange.pdb

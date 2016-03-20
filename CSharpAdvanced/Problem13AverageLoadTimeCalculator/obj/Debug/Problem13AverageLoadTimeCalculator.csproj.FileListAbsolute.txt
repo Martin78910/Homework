@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem13AverageLoadTimeCalculator\bin\Debug\Problem13AverageLoadTimeCalculator.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem13AverageLoadTimeCalculator\bin\Debug\Problem13AverageLoadTimeCalculator.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem13AverageLoadTimeCalculator\bin\Debug\Problem13AverageLoadTimeCalculator.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem13AverageLoadTimeCalculator\obj\Debug\Problem13AverageLoadTimeCalculator.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem13AverageLoadTimeCalculator\obj\Debug\Problem13AverageLoadTimeCalculator.pdb

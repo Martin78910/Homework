@@ -1,0 +1,6 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem5ThirdDigitIsSeven\bin\Debug\Problem5ThirdDigitIsSeven.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem5ThirdDigitIsSeven\bin\Debug\Problem5ThirdDigitIsSeven.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem5ThirdDigitIsSeven\bin\Debug\Problem5ThirdDigitIsSeven.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem5ThirdDigitIsSeven\obj\Debug\Problem5ThirdDigitIsSeven.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem5ThirdDigitIsSeven\obj\Debug\Problem5ThirdDigitIsSeven.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem5ThirdDigitIsSeven\obj\Debug\Problem5ThirdDigitIsSeven.csprojResolveAssemblyReference.cache

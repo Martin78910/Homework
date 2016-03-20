@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem6FourDigitNumber\bin\Debug\Problem6FourDigitNumber.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem6FourDigitNumber\bin\Debug\Problem6FourDigitNumber.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem6FourDigitNumber\bin\Debug\Problem6FourDigitNumber.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem6FourDigitNumber\obj\Debug\Problem6FourDigitNumber.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem6FourDigitNumber\obj\Debug\Problem6FourDigitNumber.pdb

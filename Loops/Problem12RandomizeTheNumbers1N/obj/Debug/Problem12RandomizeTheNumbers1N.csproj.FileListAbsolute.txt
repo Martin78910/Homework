@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem12RandomizeTheNumbers1N\bin\Debug\Problem12RandomizeTheNumbers1N.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem12RandomizeTheNumbers1N\bin\Debug\Problem12RandomizeTheNumbers1N.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem12RandomizeTheNumbers1N\bin\Debug\Problem12RandomizeTheNumbers1N.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem12RandomizeTheNumbers1N\obj\Debug\Problem12RandomizeTheNumbers1N.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem12RandomizeTheNumbers1N\obj\Debug\Problem12RandomizeTheNumbers1N.pdb

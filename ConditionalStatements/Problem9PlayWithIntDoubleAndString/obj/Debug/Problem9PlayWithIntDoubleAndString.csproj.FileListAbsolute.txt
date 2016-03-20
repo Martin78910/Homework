@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem9PlayWithIntDoubleAndString\bin\Debug\Problem9PlayWithIntDoubleAndString.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem9PlayWithIntDoubleAndString\bin\Debug\Problem9PlayWithIntDoubleAndString.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem9PlayWithIntDoubleAndString\bin\Debug\Problem9PlayWithIntDoubleAndString.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem9PlayWithIntDoubleAndString\obj\Debug\Problem9PlayWithIntDoubleAndString.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem9PlayWithIntDoubleAndString\obj\Debug\Problem9PlayWithIntDoubleAndString.pdb

@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\IntroductionToProgramming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\IntroductionToProgramming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\IntroductionToProgramming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\IntroductionToProgramming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\IntroductionToProgramming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb

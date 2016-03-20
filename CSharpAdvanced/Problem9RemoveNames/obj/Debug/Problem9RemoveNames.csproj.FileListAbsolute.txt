@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem9RemoveNames\bin\Debug\Problem9RemoveNames.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem9RemoveNames\bin\Debug\Problem9RemoveNames.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem9RemoveNames\bin\Debug\Problem9RemoveNames.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem9RemoveNames\obj\Debug\Problem9RemoveNames.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem9RemoveNames\obj\Debug\Problem9RemoveNames.pdb

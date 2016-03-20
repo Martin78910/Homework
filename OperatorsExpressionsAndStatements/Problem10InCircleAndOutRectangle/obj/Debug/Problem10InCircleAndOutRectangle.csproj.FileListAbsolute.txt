@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem10InCircleAndOutRectangle\bin\Debug\Problem10InCircleAndOutRectangle.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem10InCircleAndOutRectangle\bin\Debug\Problem10InCircleAndOutRectangle.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem10InCircleAndOutRectangle\bin\Debug\Problem10InCircleAndOutRectangle.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem10InCircleAndOutRectangle\obj\Debug\Problem10InCircleAndOutRectangle.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem10InCircleAndOutRectangle\obj\Debug\Problem10InCircleAndOutRectangle.pdb

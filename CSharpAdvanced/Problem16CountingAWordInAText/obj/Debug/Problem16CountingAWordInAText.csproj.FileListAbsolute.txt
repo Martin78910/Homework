@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem16CountingAWordInAText\bin\Debug\Problem16CountingAWordInAText.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem16CountingAWordInAText\bin\Debug\Problem16CountingAWordInAText.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem16CountingAWordInAText\bin\Debug\Problem16CountingAWordInAText.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem16CountingAWordInAText\obj\Debug\Problem16CountingAWordInAText.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem16CountingAWordInAText\obj\Debug\Problem16CountingAWordInAText.pdb

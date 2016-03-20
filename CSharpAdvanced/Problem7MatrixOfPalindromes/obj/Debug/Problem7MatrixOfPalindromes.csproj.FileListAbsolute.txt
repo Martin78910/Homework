@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem7MatrixOfPalindromes\bin\Debug\Problem7MatrixOfPalindromes.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem7MatrixOfPalindromes\bin\Debug\Problem7MatrixOfPalindromes.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem7MatrixOfPalindromes\bin\Debug\Problem7MatrixOfPalindromes.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem7MatrixOfPalindromes\obj\Debug\Problem7MatrixOfPalindromes.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem7MatrixOfPalindromes\obj\Debug\Problem7MatrixOfPalindromes.pdb

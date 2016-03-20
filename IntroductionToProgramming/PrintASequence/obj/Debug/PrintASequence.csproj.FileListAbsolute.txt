@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\IntroductionToProgramming\PrintASequence\bin\Debug\PrintASequence.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\IntroductionToProgramming\PrintASequence\bin\Debug\PrintASequence.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\IntroductionToProgramming\PrintASequence\bin\Debug\PrintASequence.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\IntroductionToProgramming\PrintASequence\obj\Debug\PrintASequence.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\IntroductionToProgramming\PrintASequence\obj\Debug\PrintASequence.pdb

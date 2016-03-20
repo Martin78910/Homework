@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem3MinMaxSumAndAverageOfNNumbers\bin\Debug\Problem3MinMaxSumAndAverageOfNNumbers.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem3MinMaxSumAndAverageOfNNumbers\bin\Debug\Problem3MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem3MinMaxSumAndAverageOfNNumbers\bin\Debug\Problem3MinMaxSumAndAverageOfNNumbers.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem3MinMaxSumAndAverageOfNNumbers\obj\Debug\Problem3MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem3MinMaxSumAndAverageOfNNumbers\obj\Debug\Problem3MinMaxSumAndAverageOfNNumbers.pdb

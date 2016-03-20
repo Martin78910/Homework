@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem9MatrixOfNumbers\bin\Debug\Problem9MatrixOfNumbers.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem9MatrixOfNumbers\bin\Debug\Problem9MatrixOfNumbers.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem9MatrixOfNumbers\bin\Debug\Problem9MatrixOfNumbers.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem9MatrixOfNumbers\obj\Debug\Problem9MatrixOfNumbers.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem9MatrixOfNumbers\obj\Debug\Problem9MatrixOfNumbers.pdb

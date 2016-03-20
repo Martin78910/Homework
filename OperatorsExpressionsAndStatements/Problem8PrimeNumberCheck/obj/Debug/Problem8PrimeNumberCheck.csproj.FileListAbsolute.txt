@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem8PrimeNumberCheck\bin\Debug\Problem8PrimeNumberCheck.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem8PrimeNumberCheck\bin\Debug\Problem8PrimeNumberCheck.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem8PrimeNumberCheck\bin\Debug\Problem8PrimeNumberCheck.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem8PrimeNumberCheck\obj\Debug\Problem8PrimeNumberCheck.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem8PrimeNumberCheck\obj\Debug\Problem8PrimeNumberCheck.pdb

@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem4PrintADeckOf52Cards\bin\Debug\Problem4PrintADeckOf52Cards.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem4PrintADeckOf52Cards\bin\Debug\Problem4PrintADeckOf52Cards.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem4PrintADeckOf52Cards\bin\Debug\Problem4PrintADeckOf52Cards.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem4PrintADeckOf52Cards\obj\Debug\Problem4PrintADeckOf52Cards.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem4PrintADeckOf52Cards\obj\Debug\Problem4PrintADeckOf52Cards.pdb

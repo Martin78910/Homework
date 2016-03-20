@@ -1,0 +1,11 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem2NumbersNotDivisibleBy3And7\bin\Debug\Problem2NumbersNotDivisibleBy3And7.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem2NumbersNotDivisibleBy3And7\bin\Debug\Problem2NumbersNotDivisibleBy3And7.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem2NumbersNotDivisibleBy3And7\bin\Debug\Problem2NumbersNotDivisibleBy3And7.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem2NumbersNotDivisibleBy3And7\obj\Debug\Problem2NumbersNotDivisibleBy3And7.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem2NumbersNotDivisibleBy3And7\obj\Debug\Problem2NumbersNotDivisibleBy3And7.pdb
+G:\VAIO\Programing Basic_October 2015\Homework\Loops\Problem2NumbersNotDivisibleBy3And7\bin\Debug\Problem2NumbersNotDivisibleBy3And7.exe.config
+G:\VAIO\Programing Basic_October 2015\Homework\Loops\Problem2NumbersNotDivisibleBy3And7\obj\Debug\Problem2NumbersNotDivisibleBy3And7.exe
+G:\VAIO\Programing Basic_October 2015\Homework\Loops\Problem2NumbersNotDivisibleBy3And7\obj\Debug\Problem2NumbersNotDivisibleBy3And7.pdb
+G:\VAIO\Programing Basic_October 2015\Homework\Loops\Problem2NumbersNotDivisibleBy3And7\bin\Debug\Problem2NumbersNotDivisibleBy3And7.exe
+G:\VAIO\Programing Basic_October 2015\Homework\Loops\Problem2NumbersNotDivisibleBy3And7\bin\Debug\Problem2NumbersNotDivisibleBy3And7.pdb
+G:\VAIO\Programing Basic_October 2015\Homework\Loops\Problem2NumbersNotDivisibleBy3And7\obj\Debug\Problem2NumbersNotDivisibleBy3And7.csprojResolveAssemblyReference.cache

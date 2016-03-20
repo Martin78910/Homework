@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\PrimitiveDataTypesAndVariables\BankAccountData\bin\Debug\BankAccountData.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\PrimitiveDataTypesAndVariables\BankAccountData\bin\Debug\BankAccountData.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\PrimitiveDataTypesAndVariables\BankAccountData\bin\Debug\BankAccountData.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\PrimitiveDataTypesAndVariables\BankAccountData\obj\Debug\BankAccountData.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\PrimitiveDataTypesAndVariables\BankAccountData\obj\Debug\BankAccountData.pdb

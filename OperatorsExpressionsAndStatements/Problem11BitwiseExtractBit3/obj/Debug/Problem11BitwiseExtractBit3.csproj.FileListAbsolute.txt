@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem11BitwiseExtractBit3\bin\Debug\Problem11BitwiseExtractBit3.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem11BitwiseExtractBit3\bin\Debug\Problem11BitwiseExtractBit3.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem11BitwiseExtractBit3\bin\Debug\Problem11BitwiseExtractBit3.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem11BitwiseExtractBit3\obj\Debug\Problem11BitwiseExtractBit3.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem11BitwiseExtractBit3\obj\Debug\Problem11BitwiseExtractBit3.pdb

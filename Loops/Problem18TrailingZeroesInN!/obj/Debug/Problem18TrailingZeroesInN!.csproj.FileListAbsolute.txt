@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem18TrailingZeroesInN!\bin\Debug\Problem18TrailingZeroesInN!.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem18TrailingZeroesInN!\bin\Debug\Problem18TrailingZeroesInN!.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem18TrailingZeroesInN!\bin\Debug\Problem18TrailingZeroesInN!.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem18TrailingZeroesInN!\obj\Debug\Problem18TrailingZeroesInN!.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem18TrailingZeroesInN!\obj\Debug\Problem18TrailingZeroesInN!.pdb

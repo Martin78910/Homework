@@ -1,0 +1,6 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem7PointInACircle\bin\Debug\Problem7PointInACircle.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem7PointInACircle\bin\Debug\Problem7PointInACircle.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem7PointInACircle\bin\Debug\Problem7PointInACircle.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem7PointInACircle\obj\Debug\Problem7PointInACircle.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem7PointInACircle\obj\Debug\Problem7PointInACircle.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\OperatorsExpressionsAndStatements\Problem7PointInACircle\obj\Debug\Problem7PointInACircle.pdb

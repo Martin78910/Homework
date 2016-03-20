@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem5SortingNumbers\bin\Debug\Problem5SortingNumbers.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem5SortingNumbers\bin\Debug\Problem5SortingNumbers.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem5SortingNumbers\bin\Debug\Problem5SortingNumbers.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem5SortingNumbers\obj\Debug\Problem5SortingNumbers.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem5SortingNumbers\obj\Debug\Problem5SortingNumbers.pdb

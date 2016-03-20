@@ -1,0 +1,6 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem4MultiplicationSign\bin\Debug\Problem4MultiplicationSign.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem4MultiplicationSign\bin\Debug\Problem4MultiplicationSign.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem4MultiplicationSign\bin\Debug\Problem4MultiplicationSign.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem4MultiplicationSign\obj\Debug\Problem4MultiplicationSign.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem4MultiplicationSign\obj\Debug\Problem4MultiplicationSign.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem4MultiplicationSign\obj\Debug\Problem4MultiplicationSign.csprojResolveAssemblyReference.cache

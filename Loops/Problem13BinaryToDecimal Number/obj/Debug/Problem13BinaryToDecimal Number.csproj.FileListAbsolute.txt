@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem13BinaryToDecimal Number\bin\Debug\Problem13BinaryToDecimal Number.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem13BinaryToDecimal Number\bin\Debug\Problem13BinaryToDecimal Number.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem13BinaryToDecimal Number\bin\Debug\Problem13BinaryToDecimal Number.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem13BinaryToDecimal Number\obj\Debug\Problem13BinaryToDecimal Number.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\Loops\Problem13BinaryToDecimal Number\obj\Debug\Problem13BinaryToDecimal Number.pdb

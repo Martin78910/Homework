@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem6LongestAreaInArray\bin\Debug\Problem6LongestAreaInArray.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem6LongestAreaInArray\bin\Debug\Problem6LongestAreaInArray.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem6LongestAreaInArray\bin\Debug\Problem6LongestAreaInArray.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem6LongestAreaInArray\obj\Debug\Problem6LongestAreaInArray.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem6LongestAreaInArray\obj\Debug\Problem6LongestAreaInArray.pdb

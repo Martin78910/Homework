@@ -1,0 +1,6 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\ConsoleInputOutput\NumberComparer\bin\Debug\NumberComparer.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\ConsoleInputOutput\NumberComparer\bin\Debug\NumberComparer.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\ConsoleInputOutput\NumberComparer\bin\Debug\NumberComparer.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\ConsoleInputOutput\NumberComparer\obj\Debug\NumberComparer.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Programing Basic_October 2015\ConsoleInputOutput\NumberComparer\obj\Debug\NumberComparer.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\ConsoleInputOutput\NumberComparer\obj\Debug\NumberComparer.pdb

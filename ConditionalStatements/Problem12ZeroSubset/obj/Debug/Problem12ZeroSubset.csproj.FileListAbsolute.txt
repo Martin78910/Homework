@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem12ZeroSubset\bin\Debug\Problem12ZeroSubset.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem12ZeroSubset\bin\Debug\Problem12ZeroSubset.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem12ZeroSubset\bin\Debug\Problem12ZeroSubset.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem12ZeroSubset\obj\Debug\Problem12ZeroSubset.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\ConditionalStatements\Problem12ZeroSubset\obj\Debug\Problem12ZeroSubset.pdb

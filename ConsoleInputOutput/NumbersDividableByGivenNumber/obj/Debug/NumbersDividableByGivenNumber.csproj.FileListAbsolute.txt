@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\ConsoleInputOutput\NumbersDividableByGivenNumber\bin\Debug\NumbersDividableByGivenNumber.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\ConsoleInputOutput\NumbersDividableByGivenNumber\bin\Debug\NumbersDividableByGivenNumber.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\ConsoleInputOutput\NumbersDividableByGivenNumber\bin\Debug\NumbersDividableByGivenNumber.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\ConsoleInputOutput\NumbersDividableByGivenNumber\obj\Debug\NumbersDividableByGivenNumber.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\ConsoleInputOutput\NumbersDividableByGivenNumber\obj\Debug\NumbersDividableByGivenNumber.pdb

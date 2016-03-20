@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem12CountOfNames\bin\Debug\Problem12CountOfNames.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem12CountOfNames\bin\Debug\Problem12CountOfNames.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem12CountOfNames\bin\Debug\Problem12CountOfNames.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem12CountOfNames\obj\Debug\Problem12CountOfNames.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem12CountOfNames\obj\Debug\Problem12CountOfNames.pdb

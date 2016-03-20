@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem17PerimeterAndAreaOfPolygon\bin\Debug\Problem17PerimeterAndAreaOfPolygon.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem17PerimeterAndAreaOfPolygon\bin\Debug\Problem17PerimeterAndAreaOfPolygon.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem17PerimeterAndAreaOfPolygon\bin\Debug\Problem17PerimeterAndAreaOfPolygon.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem17PerimeterAndAreaOfPolygon\obj\Debug\Problem17PerimeterAndAreaOfPolygon.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem17PerimeterAndAreaOfPolygon\obj\Debug\Problem17PerimeterAndAreaOfPolygon.pdb

@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem8LongestNon-DecreasingSubsequence\bin\Debug\Problem8LongestNon-DecreasingSubsequence.exe.config
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem8LongestNon-DecreasingSubsequence\bin\Debug\Problem8LongestNon-DecreasingSubsequence.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem8LongestNon-DecreasingSubsequence\bin\Debug\Problem8LongestNon-DecreasingSubsequence.pdb
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem8LongestNon-DecreasingSubsequence\obj\Debug\Problem8LongestNon-DecreasingSubsequence.exe
+C:\Users\Martin\Desktop\Programing Basic_October 2015\Homework\CSharpAdvanced\Problem8LongestNon-DecreasingSubsequence\obj\Debug\Problem8LongestNon-DecreasingSubsequence.pdb
